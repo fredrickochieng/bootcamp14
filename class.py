@@ -1,3 +1,4 @@
+#python module
 def hotel_cost(nights):
     Accomodation=140*nights
     return  Accomodation
