@@ -1,3 +1,4 @@
+#python module
 def hotel_cost(nights):
     Accomodation=140*nights
     return  Accomodation
@@ -14,4 +15,7 @@ def plane_ride_cost(city):
        return 475
 print hotel_cost(80)
 print plane_ride_cost("Tampa")
+<<<<<<< HEAD
 print("done")
+=======
+>>>>>>> 4c41c7c44cf3a02622a151f984d554e56b31204e
